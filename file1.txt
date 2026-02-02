@@ -1,1 +1,2 @@
-this file 1 is created by main branch at git hub 
+this file 1 is created by main branch at git hub
+this file is modified by branch2 in local repo ...made changes 
